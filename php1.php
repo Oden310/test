@@ -1,3 +1,1 @@
-<?php
-
-phpinfo();
+change the file
